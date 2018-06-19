@@ -9,8 +9,8 @@ body {
     }
     
 .class1 {
+  text-align:center;
   color:red;
   background-color:yellow;
   font-size:50px
-  text-align:center;
-}
+  }
