@@ -3,3 +3,7 @@ body {
       font-size: 125%;
     }
     
+.myClass {
+      background-color: gray;
+      color: blue
+    }
